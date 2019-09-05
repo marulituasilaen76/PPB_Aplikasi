@@ -1,2 +1,2 @@
 # PPB_Aplikasi
-Repo Pemrograman Perangkat Lunak
+Repo Pemrograman Perangkat Bergerak
